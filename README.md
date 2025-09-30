@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Aida Boughrara  
 
-<!--
-**AIDA2812/AIDA2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer focusing on **Artificial Intelligence, Machine Learning, and Web Development**  
+📊 Exploring data-driven solutions and building projects that solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Programming:** Python, JavaScript, SQL, HTML, CSS  
+- **AI & Data Science:** Scikit-learn, Pandas, NumPy, CatBoost  
+- **Web Development:** React, Flask, Node.js  
+- **Tools:** Git, GitHub, VS Code, Jupyter, Google Colab  
+
+---
+
+## 📂 Current Focus
+I am currently focusing on **Machine Learning** and improving my expertise in data-driven modeling.  
+*(Future AI-related projects will be added here.)*  
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: **boughraraaidaa@gmail.com**  
+- 💼 LinkedIn: [Aida Boughrara](https://www.linkedin.com/in/aida-boughrara)  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect and follow my journey in AI and Web Development.*
